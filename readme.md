@@ -1,0 +1,1 @@
+Fetch random dog image from API 
